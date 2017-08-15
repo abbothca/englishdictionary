@@ -1,4 +1,9 @@
 /nbproject/
 **/node_modules/
 /public/dev/
+/public/.yo-rc.json
+/public/example.config.js
+/public/gulpfile.js
+/public/package-lock.json
+/public/package.json
 dictionary.config.js
