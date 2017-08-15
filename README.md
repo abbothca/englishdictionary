@@ -38,7 +38,7 @@ Now you can run the project:
 npm run start
 ```
 
-Your app is available by address:
+Your app is available by local URL:
 
 ```bash
 http://localhost:3000/
