@@ -1,6 +1,8 @@
 # Custom English Dictionary 
 > 
 
+![ScreenShot](https://github.com/abbothca/englishdictionary.git/screenshot.jpg)
+
 ## Installation
 
 First, install [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
