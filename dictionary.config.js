@@ -1,5 +1,5 @@
 var config = {
-  oxforddictionariesAPIKey: 'da0cf1b3fcd62c2adddcaceaff853b5d',
+  oxforddictionariesAPIKey: '00ae5e56da01facb4ceef0322954a6c4',
   oxforddictionariesAPIId: 'f08cf9ea'
 };
 
