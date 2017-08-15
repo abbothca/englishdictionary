@@ -1,0 +1,53 @@
+.header
+  .header__fix
+  header
+    .header__logo
+      a(href="/")
+        |MyDictionary
+    .header__nav.menu
+      button#toggle.menu__toggle
+        |Menu
+        span
+        span
+        span
+      nav.menu__nav
+        .menu__inside
+          h2
+            |On the site I can find:
+          ul
+            li
+              a(href="/search")
+                |Search word
+            li
+              a(href="/dictionary")
+                |Dictionary
+            li
+              a(href="/dictionary")
+                |Quiz
+          h2
+            |Info about this site:
+          ul
+            li
+              a(href="/about")
+                |About
+            li
+              a(href="/faq")
+                |FAQs
+            li
+              a(href="/dictionary")
+                |Contacts
+        .menu__outside
+          h2
+            |This can be usefull:
+          ul
+            li
+              a(href="http://www.translate.google.com")
+                |Google Translate
+            li
+              a(href="https://en.oxforddictionaries.com/")
+                |Oxford Dictionaries
+            li
+              a(href="https://www.lingvolive.com/en-us")
+                |ABBYY Lingvo Dictionary
+        .menu__image
+          img(src='./assets/images/design/2.png', alt="pen")

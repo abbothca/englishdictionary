@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='https://fonts.googleapis.com/css?family=Dancing+Script|Maven+Pro')
+    link(rel='stylesheet', href='/assets/stylesheets/vendor/jquery-ui.css')
+    link(rel='stylesheet', href='/assets/stylesheets/style.css')
+    script(src='/assets/javascripts/vendor/jquery-3.2.1.min.js')
+    script(src='/assets/javascripts/vendor/jquery-ui.js')
+    script(src='/assets/javascripts/vendor/jquery.nicescroll.js')
+    script(src='/assets/javascripts/main.js')
+  body
+    include header
+    block content
+    include footer

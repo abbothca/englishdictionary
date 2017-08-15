@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  main.content
+    form#translate(method="POST", action="/translate")
+      fieldset
+        label
+          |Type your text
+        input#text(type="text")
+      fieldset
+        label
+          |Choose language
+        input(type="text")
+      button(type="submit")
+        |Translate
+    ul#list.translate.nicescroll
