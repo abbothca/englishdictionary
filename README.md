@@ -1,4 +1,4 @@
-# Custom English Dictionary [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# Custom English Dictionary 
 > 
 
 ## Installation
