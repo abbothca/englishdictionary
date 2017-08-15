@@ -1,7 +1,7 @@
 # Custom English Dictionary 
 > 
 
-![ScreenShot](https://github.com/abbothca/englishdictionary.git/screenshot.jpg)
+![ScreenShot](https://raw.githubusercontent.com/abbothca/englishdictionary/master/screenshot.jpg)
 
 ## Installation
 
